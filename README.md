@@ -40,16 +40,25 @@ Prvi graf prikazuje povprečno koncentracijo na različnih meritvenih postajah p
 <center>Graf 2: Povprečne koncentracije PM10 po mesecih</center>
 
 ### 3.2 Analiza
-Za enkrat smo ostali pri pripravi podatkov, analize nam še ni uspelo narediti, saj nam je veliko časa vzelo pretvarjanje iz pdf oblike v uporabno csv obliko. Med podatki je tudi nekoliko neskladij, kar nam je dodatno otežilo delo. Ko bomo ilemi vse podatke pripravljene, se bomo lotili združevanja.
+Za enkrat smo ostali pri pripravi podatkov, analize nam še ni uspelo narediti, saj nam je veliko časa vzelo pretvarjanje iz pdf oblike v uporabno csv obliko. Med podatki je tudi nekoliko neskladij, kar nam je dodatno otežilo delo. Ko bomo imeli vse podatke pripravljene, se bomo lotili združevanja.
 
 ### 3.3 Ugotovitve
 Iz grafov že lahko razberemo, da je bil v letu 2019 zrak bolj onesnažen med zimskimi časi kot poletnimi. Prav tako, lahko to povemo za posamezne kraje.
 
 ## 4. Kam naprej?
 
+Pripravili bomo še več različnih podatkov za različna obdobja (npr. 2017, 2018, 2019, 2020) in jih med sabo primerjali.
+Podatki bodo zajemali naslednje:
+* Koncentracija delcev PM10,
+* Koncentracija delcev PM2.5,
+* Kemijska analiza delcev PM10 (Aluminij, baker, svinec, železo, itd.) - količine teh delcev v zraku na meritveni postaji,
+* Vse vremenske mertive (npr. povp. dnvena T [°C], povp. veter[m/s], količina padavin [mm], višina snežne odeje [cm], itd. ).
 
+Preverili bomo kako se s temperaturo, hitrostjo vetra, količino padavin spreminja koncentracija teh delcev.
+
+S pridobivanjem teh vzorcev bomo lahko odgovorili na vprašanja, ki smo si jih zastavili
 
 ## 5. Zaključek
 
-
 ## 6. Viri
+

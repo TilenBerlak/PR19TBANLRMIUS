@@ -26,10 +26,17 @@ Nekatere meritve postaje imajo na voljo tudi podatke o nevihtah, toči, megli, s
 
 ## 3. Iskanje vzorcev, zanimivosti
 ### 3.1 Prikaz
-Primer tabele, v kateri so za vsak dan shranjene izmerjene vrednosti PM10 iz določene postaje. Za vsako postajo smo poračunali povprečno izmerjeno vrednost.
-![Graf 1: Povprečne količine PM10 po krajih](https://github.com/TilenBerlak/PR19TBANLRMIUS/blob/master/graf.PNG)
+Iz podatkov o koncentraciji delcev PM10 za leto 2019 smo ustvarili dva grafa.
+
+Prvi graf prikazuje povprečno koncentracijo na različnih meritvenih postajah po Sloveniji.
+![Graf 1: Povprečne koncentracije PM10 po krajih](https://github.com/TilenBerlak/PR19TBANLRMIUS/blob/master/graf.PNG)
 
 <center>Graf 1 :  Povprečne količine PM10 po krajih</center>
+
+Še en graf, ki prikazuje povprečno koncentracijo delcev PM10 v Sloveniji po posameznih mesecih v letu 2019.
+![Graf 2: Povprečne koncentracije PM10 po mesecih](https://github.com/TilenBerlak/PR19TBANLRMIUS/blob/master/graf_pm10_slovenija.PNG)
+
+<center>Graf 2: Povprečne koncentracije PM10 po mesecih</center>
 
 ### 3.2 Analiza
 Za enkrat smo ostali pri pripravi podatkov, analize nam še ni uspelo narediti, saj nam je veliko časa vzelo pretvarjanje iz pdf oblike v uporabno csv obliko. Med podatki je tudi nekoliko neskladij, kar nam je dodatno otežilo delo. Ko bomo ilemi vse podatke pripravljene, se bomo lotili združevanja.

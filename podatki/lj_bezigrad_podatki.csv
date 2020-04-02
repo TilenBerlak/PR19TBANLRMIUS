@@ -1,5 +1,4 @@
-﻿;;;;;;;;;;;
-;povp. dnevna T [°C];povp. veter [m/s];povp. rel. vla. [%];povp. tlak [hPa];viharni veter;dež;toča;megla;rosa;slana;padavine
+﻿datum;povp. dnevna T [°C];povp. veter [m/s];povp. rel. vla. [%];povp. tlak [hPa];viharni veter;dež;toča;megla;rosa;slana;padavine
 01/01/2019;2.2;0.3;80;989;ne;ne;ne;ne;da;ne;ne
 02/01/2019;2.1;2.3;60;984;ne;ne;ne;ne;da;da;ne
 03/01/2019;1.6;2.8;36;989;ne;ne;ne;ne;ne;ne;ne

@@ -36,12 +36,18 @@ Prvi graf prikazuje povprečno koncentracijo na različnih meritvenih postajah p
 Še en graf, ki prikazuje povprečno koncentracijo delcev PM10 v Sloveniji po posameznih mesecih v letu 2019.
 ![Graf 2: Povprečne koncentracije PM10 po mesecih](https://github.com/TilenBerlak/PR19TBANLRMIUS/blob/master/graf_pm10_slovenija.PNG)
 
+
 <center>Graf 2: Povprečne koncentracije PM10 po mesecih</center>
 
 ### 3.2 Analiza
 Za enkrat smo ostali pri pripravi podatkov, analize nam še ni uspelo narediti, saj nam je veliko časa vzelo pretvarjanje iz pdf oblike v uporabno csv obliko. Med podatki je tudi nekoliko neskladij, kar nam je dodatno otežilo delo. Ko bomo ilemi vse podatke pripravljene, se bomo lotili združevanja.
 
+### 3.3 Ugotovitve
+Iz grafov že lahko razberemo, da je bil v letu 2019 zrak bolj onesnažen med zimskimi časi kot poletnimi. Prav tako, lahko to povemo za posamezne kraje.
+
 ## 4. Kam naprej?
+
+
 
 ## 5. Zaključek
 

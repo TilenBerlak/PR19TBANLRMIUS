@@ -18,7 +18,7 @@ Podatkov je dosti, vendar se je treba malo potruditi priti do le teh oz. jih dob
 
 ### 2.2 Prikaz
 Primer tabele, v kateri so za vsak dan shranjene izmerjene vrednosti PM10 iz določene postaje. Za vsako postajo smo poračunali povprečno izmerjeno vrednost.
-![Graf 1: Povprečne količine PM10 po krajih](graf.png)
+![Graf 1: Povprečne količine PM10 po krajih](https://github.com/TilenBerlak/PR19TBANLRMIUS/blob/master/graf.PNG)
 
 <center>Graf 1 :  Povprečne količine PM10 po krajih</center>
 

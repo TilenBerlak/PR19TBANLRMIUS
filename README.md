@@ -22,7 +22,7 @@ Podatke trenutno pridobivamo iz naslednjih spletnih strani:
 
 Na spletni strani arso je na voljo še analiza delcev PM10, koncentracija vsake težke kovine, ki spada v to kategorijo (aluminij, svinec, baker, ...). To nam bo omogočilo natančno analizo onesnaženosti na vsaki meritveni postaji.
 
-Nekatere meritve postaje imajo na voljo tudi podatke o nevihtah, toči, megli, snežni plohi, viharnih vetrih, ipd. So diskretne spremenljivke z vrednostimi "da" ali "ne". Preverili bomo, če vplivajo na vse možne vremenske spremembe, kot so onsenaženje, temperature in povezave med njimi.
+Nekatere meritve postaje imajo na voljo tudi podatke o nevihtah, toči, megli, snežni plohi, viharnih vetrih, ipd. So diskretne spremenljivke z vrednostimi "da" ali "ne". Preverili bomo, če vplivajo na vse možne vremenske spremembe, kot so onesnaženje, temperature in povezave med njimi.
 
 ## 3. Iskanje vzorcev, zanimivosti
 ### 3.1 Prikaz

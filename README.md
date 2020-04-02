@@ -1,12 +1,3 @@
-# PR19TBANLRMIUS
-Ideje za projekt:
-## Zdravsvto
-Lahko nwm pogledamo kko se je spreminjalo skozi čas to, kolko slovencev, ki je študiralo v sloveniji in se tukaj specializiralo, kolko od teh jih je ostalo tle, kolko denarja je šlo za to, kako (če) se je ta denar vrnil, .. - sm vidu dosti podatkov na uni gov.si
-
-## Programerji
-Kko se spreminjajo zahteve in možnosti programerjev (iskanost, kakšni oddelki, pričakovanja - kolko rabiš znat, kolko rabiš imet izkušenj, ali se da bit specializiran v samo eno smer, en framework, .. al rabiš pokrit čimveč, kokšna je plača, pogoji, itd)
-
-***************************************************************************************************************************************
 # Vmesno poročilo projektne naloge
 
 ## 1. Uvod
@@ -21,18 +12,22 @@ Poskušali bomo odgovoriti na vprašanja:
 
 Podatke bomo pridobili s spletne strani https://podatki.gov.si/ in  http://www.arso.gov.si/. Na spletni strani arso je na voljo še analiza delcev PM10, koncentracija vsake težke kovine, ki spada v to kategorijo (aluminij, svinec, baker, ...). To nam bo omogočilo natančno analizo onesnaženosti na vsaki meritveni postaji.
 
-## 2. Iskanje in priprava podatkov
+## 2. Iskanje vzorcev, zanimivosti
+### 2.1 Iskanje in priprava podatkov
 Podatkov je dosti, vendar se je treba malo potruditi priti do le teh oz. jih dobiti/spremeniti v takšno obliko, ki bo uporabna. Večino podatkov, ki jih bomo uporabili so v pdf obliki, zato smo tabele morali pretvoriti v csv. 
 
-## 3. Iskanje vzorcev, zanimivosti
-### 3.1 Analiza
+### 2.2 Prikaz
+Primer tabele, v kateri so za vsak dan shranjene izmerjene vrednosti PM10 iz določene postaje. Za vsako postajo smo poračunali povprečno izmerjeno vrednost.
+![Graf 1: Povprečne količine PM10 po krajih](graf.png)
 
-### 3.2 Prikaz
+<center>Graf 1 :  Povprečne količine PM10 po krajih</center>
 
-### 3.3 Ugotovitve
+### 2.3 Analiza
+Za enkrat smo ostali pri pripravi podatkov, analize nam še ni uspelo narediti, saj nam je veliko časa vzelo pretvarjanje iz pdf oblike v uporabno csv obliko. Med podatki je tudi nekoliko neskladij, kar nam je dodatno otežilo delo. Ko bomo ilemi vse podatke pripravljene, se bomo lotili združevanja.
 
 ## 4. Kam naprej?
 
 ## 5. Zaključek
+
 
 ## 6. Viri

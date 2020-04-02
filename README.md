@@ -3,7 +3,7 @@
 # Vmesno poročilo projektne naloge
 
 ## 1. Uvod
-V tej projektni nalogi bomo poskušali odkriti zanimive vzorce iz podatkov o kakovosti zraka v Sloveniji. Preverili bomo onesnaženost zraka (koncentracija ozona O3, delci PM10, PM2.5, SO2, CO, O3, NO2, ...) v različnih krajih v Sloveniji in poskušali ugotoviti kateri so najbolj in najmanj onesnaženi. Preverili bomo kako količina padavin, vetrovi, vlaga, temperatura in letni časi vplivajo na stopnjo onesnaženosti. Na voljo imamo urne, dnevne in letne meritve za več let v preteklost. Nekateri podatki so v formatu PDF in XML, kar je vredu saj jih po potrebi lahko pretvorimo v CSV.
+V tej projektni nalogi bomo poskušali odkriti zanimive vzorce iz podatkov o kakovosti zraka v Sloveniji. Preverili bomo onesnaženost zraka (koncentracija ozona O3, delci PM10, PM2.5, SO2, CO, O3, NO2, ...) v različnih krajih v Sloveniji in poskušali ugotoviti kateri so najbolj in najmanj onesnaženi. Preverili bomo kako meritve kot so količina padavin, hitrost vetrov, vlaga, temperatura in letni časi vplivajo na stopnjo onesnaženosti. Na voljo imamo urne, dnevne in letne meritve za več let v preteklost. Nekateri podatki so v formatu PDF in XML, kar je vredu saj jih po potrebi lahko pretvorimo v CSV.
 
 Poskušali bomo odgovoriti na vprašanja:
 * Kateri so najbolj in najmanj onesnaženi kraji v Sloveniji?
